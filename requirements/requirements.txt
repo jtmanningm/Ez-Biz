@@ -1,6 +1,7 @@
 streamlit
 pandas
 snowflake-snowpark-python
+snowflake-connector-python
 cryptography
 python-dateutil
 streamlit-extras
